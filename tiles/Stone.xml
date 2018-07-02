@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tile>
+    <id>3</id>
+    <name>Stone</name>
+    <toughness>10</toughness>
+    <solid>true</solid>
+    <breakable>true</breakable>
+    <texture>Tile_Stone.png</texture>
+    <layout>TileLayout</layout>
+    <overlays/>
+</tile>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player>
+	<name>Player</name>
+	<scale>2.32 2.9</scale>
+    
+    <initialAnimation>Idle</initialAnimation>
+    
+	<speed>0.075</speed>
+	<jumpForce>0.3</jumpForce>
+    <handPos>-0.25 -0.25</handPos>
+    
+	<collider>
+		<dx>0</dx>
+		<dy>0</dy>
+		<width>0.5625</width>
+		<height>1.0</height>
+	</collider>
+    
+    <animationcontroller>
+        <animation>
+            <id>Idle</id>
+            <length>35</length>
+            <spritesheet>PlayerSheet</spritesheet>
+            <sprites>
+                playerIdle1
+            </sprites>
+        </animation>
+        <animation>
+            <id>Walk</id>
+            <length>35</length>
+            <spritesheet>PlayerSheet</spritesheet>
+            <sprites>
+                playerWalk1 playerWalk2
+                playerWalk3 playerWalk4
+                playerWalk5 playerWalk6
+                playerWalk7 playerWalk8
+            </sprites>
+        </animation>
+        <animation>
+            <id>Run</id>
+            <length>35</length>
+            <spritesheet>PlayerSheet</spritesheet>
+            <sprites>
+                playerRun1 playerRun2
+                playerRun3 playerRun4
+                playerRun5 playerRun6
+                playerRun7
+            </sprites>
+            <metadata>
+                <dHandPos>
+                    <frame num="0" data="0.0625 0.05" />
+                    <frame num="1" data="0.0625 0.0" />
+                    <frame num="2" data="0.0625 0.1" />
+                    <frame num="3" data="0.0625 0.0" />
+                    <frame num="4" data="0.0625 0.05" />
+                    <frame num="5" data="0.0625 0.05" />
+                    <frame num="6" data="0.0625 0.05" />
+                </dHandPos>
+            </metadata>
+        </animation>
+    </animationcontroller>
+    
+</player>

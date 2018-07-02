@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tile>
+    <id>0</id>
+    <name>Void</name>
+    <toughness>-1</toughness>
+    <solid>false</solid>
+    <breakable>false</breakable>
+    <texture>Tile_Void.png</texture>
+    <layout>TileLayout</layout>
+    <overlays/>
+</tile>

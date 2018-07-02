@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spritesheet>
+    <texture>UI_BlockBreak.png</texture>
+    <spriteSize>16 16</spriteSize>
+    <sprites>
+        <sprite>
+            <id>blockBreak1</id>
+            <loc>0 0</loc>
+        </sprite>
+        <sprite>
+            <id>blockBreak2</id>
+            <loc>1 0</loc>
+        </sprite>
+        <sprite>
+            <id>blockBreak3</id>
+            <loc>2 0</loc>
+        </sprite>
+        <sprite>
+            <id>blockBreak4</id>
+            <loc>3 0</loc>
+        </sprite>
+        <sprite>
+            <id>blockBreak5</id>
+            <loc>4 0</loc>
+        </sprite>
+        <sprite>
+            <id>blockBreak6</id>
+            <loc>5 0</loc>
+        </sprite>
+    </sprites>
+</spritesheet>

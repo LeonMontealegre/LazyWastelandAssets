@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tile>
+    <name>Hell Cleaver</name>
+    <rarity>Rare af dude</rarity>
+    <maxStack>1</maxStack>
+    <handPosition>0.1 0.4</handPosition>
+    <handScale>1 2.57</handScale>
+    <texture>Item_HellCleaver.png</texture>
+</tile>

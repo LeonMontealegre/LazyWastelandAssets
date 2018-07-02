@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<particlesystem>
+    <id>0</id>
+    
+    <duration>5</duration>
+    <looping>true</looping>
+    <lifetime>1 1.75</lifetime>
+    
+    <x>-2 2</x>
+    <y>-2 2</y>
+    <xVelocity>-0.01 0.01</xVelocity>
+    <yVelocity>-0.01 0.01</yVelocity>
+    <acceleration>0 0</acceleration>
+    
+    <angle>0 0</angle>
+    <angularVelocity>-0.01 0.01</angularVelocity>
+    
+    <xSize>1 1</xSize>
+    <ySize>1 1</ySize>
+    <sizeOverTime>0.01 0.01</sizeOverTime>
+    
+    <useGravity>false</useGravity>
+    <useFriction>false</useFriction>
+    
+    <collide>true</collide>
+    <dieOnCollision>false</dieOnCollision>
+    
+    <emissionRate>30</emissionRate>
+    <maxParticles>10000</maxParticles>
+</particlesystem>

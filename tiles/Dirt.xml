@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tile>
+    <id>1</id>
+    <name>Dirt</name>
+    <toughness>2</toughness>
+    <solid>true</solid>
+    <breakable>true</breakable>
+    <texture>Tile_Dirt.png</texture>
+    <layout>TileLayout</layout>
+    <overlays/>
+</tile>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tile>
+    <name>Stick</name>
+    <rarity>Common</rarity>
+    <maxStack>8</maxStack>
+    <handPosition>0.25 0.25</handPosition>
+    <texture>Item_Stick.png</texture>
+</tile>
