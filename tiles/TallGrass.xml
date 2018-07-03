@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tile>
+    <id>4</id>
+    <name>Tall Grass</name>
+    <toughness>1</toughness>
+    <solid>false</solid>
+    <breakable>true</breakable>
+    <texture>Tile_TallGrass.png</texture>
+    <layout>SingleTileLayout</layout>
+    <overlays />
+    <drop></drop>
+</tile>
