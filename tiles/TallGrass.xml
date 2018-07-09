@@ -7,6 +7,9 @@
     <breakable>true</breakable>
     <texture>Tile_TallGrass.png</texture>
     <layout>SingleTileLayout</layout>
-    <overlays />
-    <drop></drop>
+    <drops>
+        <drop chance="0.2" drop="Stick" />
+        <drop chance="0.2" drop="Stone" />
+        <drop chance="0.05" drop="Flint" />
+    </drops>
 </tile>
