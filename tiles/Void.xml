@@ -6,6 +6,6 @@
     <solid>false</solid>
     <breakable>false</breakable>
     <texture>Tile_Void.png</texture>
-    <layout>TileLayout</layout>
+    <layout>SingleTileLayout</layout>
     <overlays/>
 </tile>

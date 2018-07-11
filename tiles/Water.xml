@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tile>
-    <id>1</id>
-    <name>Water Kinda</name>
+    <id>5</id>
+    <name>Water</name>
     <toughness>-1</toughness>
     <solid>false</solid>
     <breakable>false</breakable>
-    <texture>Tile_WaterKinda.png</texture>
-    <layout>SingleTileLayout</layout>
+    <texture>Tile_Water.png</texture>
+    <layout>TileLayout</layout>
     <overlays/>
 </tile>
