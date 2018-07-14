@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tile>
+    <id>8</id>
+    <name>Cane Grass</name>
+    <toughness>1</toughness>
+    <solid>false</solid>
+    <breakable>true</breakable>
+    <texture>Tile_CaneGrass.png</texture>
+    <layout>1x2TileLayout</layout>
+    <drops>
+        <drop chance="0.2" drop="Stick" />
+        <drop chance="0.2" drop="Stone" />
+        <drop chance="0.05" drop="Flint" />
+    </drops>
+</tile>
